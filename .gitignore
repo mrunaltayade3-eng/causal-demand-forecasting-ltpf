@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# M5 raw and processed data
+data/raw/*
+data/processed/*
+
+# Keep folder structure in GitHub
+!data/raw/.gitkeep
+!data/processed/.gitkeep
