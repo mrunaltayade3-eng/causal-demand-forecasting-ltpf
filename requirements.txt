@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+statsmodels
+scipy
+matplotlib
+pyarrow
+econml
+shap
+pytest
+jupyter
